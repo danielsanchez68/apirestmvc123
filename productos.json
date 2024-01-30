@@ -1,0 +1,14 @@
+[
+	{
+		"nombre": "CPU",
+		"precio": 999,
+		"stock": 22,
+		"id": "2"
+	},
+	{
+		"nombre": "Memoria",
+		"precio": 888,
+		"stock": 11,
+		"id": "4"
+	}
+]
